@@ -216,7 +216,7 @@ Potential features to add:
 
 ## 🤝 Contributing
 
-This is a portfolio/learning project. Feel free to:
+This is a learning project. Feel free to:
 
 - Fork the repository
 - Add new features
@@ -233,7 +233,7 @@ Created as a demonstration of Object-Oriented Programming concepts for academic 
 
 ---
 
-## 🎯 Portfolio Highlights
+## 🎯 Project Highlights
 
 This project showcases:
 
@@ -245,4 +245,4 @@ This project showcases:
 - ✅ Comprehensive documentation
 - ✅ Real-world application development
 
-Perfect for demonstrating foundational programming skills to potential employers or for academic portfolios!
+Perfect for demonstrating foundational programming skills!

@@ -1,0 +1,8 @@
+# Python Standard Library Only - No External Dependencies Required
+# This project uses only built-in Python modules
+
+# If you want to add future enhancements, you might consider:
+# pandas>=1.3.0          # For data analysis and reporting
+# sqlalchemy>=1.4.0      # For database integration
+# flask>=2.0.0           # For web interface
+# pytest>=6.0.0          # For unit testing

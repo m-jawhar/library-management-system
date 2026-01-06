@@ -229,7 +229,7 @@ This project is open source and available for educational purposes.
 
 ## 👨‍💻 Author
 
-Created as a demonstration of Object-Oriented Programming concepts for academic portfolio purposes.
+Created as a demonstration of Object-Oriented Programming concepts for academic purposes.
 
 ---
 
